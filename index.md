@@ -6,7 +6,41 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <!DOCTYPE html>
 <html>
-    <link href="C:/HTML/styles.css" rel="stylesheet">
+    <style>
+        details {
+        background-color: #777;
+        color: white;
+        cursor: pointer;
+        padding: 25px;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 20px;
+        max-width: 100%;
+    }
+
+    .sub {
+        background-color: darkgray;
+        font-size: 15px;
+        color:#777;
+        position:absolute;                 
+        bottom:0;                         
+        right:0;
+        left:0;
+        text-align: center;
+    }
+
+    .image {
+        position: relative;
+        left: 0;
+        right: 0;
+        /*width: 300px;
+        height: 300px;*/
+        background-color: black;
+    }
+    </style>
+    
     <head>
         <meta name="viewport" content="width=device-width">
         <title>Totally Legit Website</title>
