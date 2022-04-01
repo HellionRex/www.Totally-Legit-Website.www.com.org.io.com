@@ -33,7 +33,7 @@
             height: 300px;*/
             background-color: black;
         }    
-    </styles>
+    </style>
     <link href="C:/HTML/styles.css" rel="stylesheet">
     <head>
         <meta name="viewport" content="width=device-width">
