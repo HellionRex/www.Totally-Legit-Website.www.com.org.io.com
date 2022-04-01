@@ -2,39 +2,39 @@
 <html>
     <style>
         details {
-        background-color: #777;
-        color: white;
-        cursor: pointer;
-        padding: 25px;
-        width: 100%;
-        border: none;
-        text-align: left;
-        outline: none;
-        font-size: 20px;
-        max-width: 100%;
-    }
+            background-color: #777;
+            color: white;
+            cursor: pointer;
+            padding: 25px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+            max-width: 100%;
+        }
 
-    .sub {
-        background-color: darkgray;
-        font-size: 15px;
-        color:#777;
-        position:absolute;                 
-        bottom:0;                         
-        right:0;
-        left:0;
-        text-align: center;
-    }
+        .sub {
+            background-color: darkgray;
+            font-size: 15px;
+            color:#777;
+            position:absolute;                 
+            bottom:0;                         
+            right:0;
+            left:0;
+            text-align: center;
+        }
 
-    .image {
-        position: relative;
-        left: 0;
-        right: 0;
-        /*width: 300px;
-        height: 300px;*/
-        background-color: black;
-    }
-    </style>
-    
+        .image {
+            position: relative;
+            left: 0;
+            right: 0;
+            /*width: 300px;
+            height: 300px;*/
+            background-color: black;
+        }    
+    </styles>
+    <link href="C:/HTML/styles.css" rel="stylesheet">
     <head>
         <meta name="viewport" content="width=device-width">
         <title>Totally Legit Website</title>
@@ -58,12 +58,13 @@
         </details>
 
         <h1>
-            What we use to meet our goals:
+            Utilities:
         </h1>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=lpiB2wMc49g">Hitch hikers guide to the universe</a></li>
-            <p style="font-size:5px">(courtesy of contributor: Ulric Wolfgang von Schnetlage)</p>
+            <p style="font-size:7px">(courtesy of contributor: Ulric Wolfgang von Schnetlage)</p>
             <li><a href="https://www.youtube.com/watch?v=GJDNkVDGM_s">Winnie the pooh<a></li>
+            <li><a href="http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html">Kang the conqueror<a></li>
         </ul>
 
         <div class="sub">
