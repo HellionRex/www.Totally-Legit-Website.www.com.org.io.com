@@ -51,7 +51,7 @@
             <summary>About Us</summary>
         
             <p>
-                This is a website made by an absolute genious as a way to discover the secrets of the multiverse and not at all by a 14 year old with two much time on their hands.
+                This is a website made by an absolute genius as a way to discover the secrets of the multiverse and not at all by a 14 year old with two much time on their hands.
                 <br>
                 The information gathered thus far has been insurmountable in terms of value and we plan on continuing our exploration of infinite knowledge further
             </p>
