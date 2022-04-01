@@ -61,7 +61,7 @@
             Utilities:
         </h1>
         <ul>
-            <li><a href="https://www.youtube.com/watch?v=lpiB2wMc49g">Hitch hikers guide to the universe</a></li>
+            <li><a href="https://www.youtube.com/watch?v=lpiB2wMc49g">The hitchhikers guide to the galaxy</a></li>
             <p style="font-size:7px">(courtesy of contributor: Ulric Wolfgang von Schnetlage)</p>
             <li><a href="https://www.youtube.com/watch?v=GJDNkVDGM_s">Winnie the pooh<a></li>
             <li><a href="http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html">Kang the conqueror<a></li>
@@ -69,7 +69,7 @@
 
         <div class="sub">
             <p>
-                Copyright 2022. All rights reserved.                
+                Copyright 69420. All immature rights reserved.                
             </p>
         </div>
     </body>
